@@ -2,15 +2,15 @@
 
 ## I'm a Full Stack Developer!!
 
-- 🔭 I am a Full stack Developer with Over 2 Years of Experience
+- 🔭 I am a Full stack Developer with Close to 4 Years of Experience
 - 🌱 I have a Soft Corner for Javascript & React ⚡
-- 👯 I’m looking to collaborate with Crypto projects.
-- 🥅 2021 Goals: Create something meaning full for crypto industry.
+- 👯 I have started Open Source Contribution.
+- 🥅 2023 Goals: Learn Full Stack Development from the industry experts.
 - ⚡ Fun fact: I love to Sing Marathi Koligite...
 
 ### Connect with me:
 
-[<img align="left" alt="Rahul More | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Rahul More | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][X.com]
 [<img align="left" alt="Rahul More | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
