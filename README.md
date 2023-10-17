@@ -3,8 +3,9 @@
 - 🔭 I am a Senior Software Engineer with Close to 4 Years of Experience
 - 🌱 I have a Soft Corner for Javascript, React & Node ⚡
 - 👯 I have started Open Source Contribution.
-- 🥅 2023 Goals: Learn Full Stack Development from the industry experts.
+- 🥅 2023 Goals: Master Backend Development from industry experts.
 - ⚡ Fun fact: I love to Sing Marathi Koligite...
+- 🕺 Want to know more about me? [Watch this video](https://bit.ly/rahul-intro)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
