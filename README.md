@@ -1,6 +1,6 @@
-## I'm a Senior Software Engineer!
+## I'm a Senior Software Engineer! (Backend)
 
-- 🔭 I am a Senior Software Engineer with Close to 4 Years of Experience
+- 🔭 I am a Senior Software Engineer (Backend) with Close to 4 Years of Experience
 - 🌱 I have a Soft Corner for Javascript, React & Node ⚡
 - 👯 I have started Open Source Contribution.
 - 🥅 2023 Goals: Master Backend Development from industry experts.
