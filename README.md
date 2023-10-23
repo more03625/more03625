@@ -6,6 +6,7 @@
 - 🥅 2023 Goals: Master Backend Development from industry experts.
 - ⚡ Fun fact: I love to Sing Marathi Koligite...
 - 🕺 Want to know more about me? [Watch this video](https://bit.ly/rahul-intro){:target="_blank"}
+- [Open Link in New Tab](https://example.com){:target="_blank"}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
