@@ -1,11 +1,11 @@
 ## I'm a Senior Software Engineer! (Backend)
 
-- 🔭 I am a Senior Software Engineer (Backend) with Close to 4 Years of Experience
-- 🌱 I have a Soft Corner for Javascript, React & Node ⚡
-- 👯 I have started Open Source Contribution.
-- 🥅 2023 Goals: Master Backend Development from industry experts.
-- ⚡ Fun fact: I love to Sing Marathi Koligite...
-- 🕺 Want to know more about me? [Watch this video](https://bit.ly/rahul-intro)
+- 🔭 I am a **Senior Software Engineer (Backend)** with **5+ years of experience** specializing in **scalable distributed systems, PostgreSQL, and Node.js**.  
+- 🌱 I have a deep passion for **JavaScript, TypeScript, System Design, and Performance Optimization**.  
+- 👯 I actively build my own sass products and enjoy mentoring developers.  
+- 🥅 **2025 Goals:** Prepare for **FANG interviews**, master **high-scale backend architectures**, and refine **system design expertise**.  
+- ⚡ Fun fact: I love singing **Marathi Koligite** and enjoy breaking down complex tech concepts into simple explanations.  
+- 🕺 Want to know more about me? **[Watch this video](https://bit.ly/rahul-intro)** 🚀  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
