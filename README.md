@@ -1,6 +1,6 @@
 ## I'm a Senior Software Engineer! (Backend)
 
-- 🔭 I am a **Senior Software Engineer (Backend)** with **5+ years of experience** specializing in **scalable distributed systems, PostgreSQL, and Node.js**.  
+- 🔭 I am a **Senior Software Engineer (Backend)** with **5.8+ years of experience** specializing in **scalable distributed systems, PostgreSQL, and Node.js**.  
 - 🌱 I have a deep passion for **JavaScript, TypeScript, System Design, and Performance Optimization**.  
 - 👯 I actively build my own sass products and enjoy mentoring developers.  
 - 🥅 **2025 Goals:** Prepare for **FANG interviews**, master **high-scale backend architectures**, and refine **system design expertise**.  
